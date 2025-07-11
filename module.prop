@@ -1,6 +1,6 @@
-id=OnePlus12_Wallet_CN
-name=OnePlus12 OxygenOS wallet mainland China localization
-version=1.0
+id=OnePlus13T_Wallet_CN
+name=OnePlus13T OxygenOS wallet CN localization
+version=0.1
 versionCode=1
-author=lack006
-description=Enable wallet for OnePlus12 OxygenOS.
+author=lack006, modified by yuancu
+description=Enable wallet for OnePlus13T OxygenOS.
